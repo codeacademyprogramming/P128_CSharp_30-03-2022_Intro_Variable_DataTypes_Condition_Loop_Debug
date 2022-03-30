@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P128FirstCSharpProject/1.0.0": {
+        "runtime": {
+          "P128FirstCSharpProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P128FirstCSharpProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
